@@ -1,6 +1,6 @@
 ## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" alt="hi">! My name is Daniyal and I'am Unity developer
 
-[![Resume](https://img.shields.io/badge/-Resume_Daniyal-090909?style=for-the-badge&logo=GoogleMessages)](https://docs.google.com)
+[![Resume/CV](https://img.shields.io/badge/-Resume/CV_Daniyal-090909?style=for-the-badge&logo=GoogleMessages)](https://drive.google.com/file/d/1qZbJimwbQQlvNfyvd65sSNFZGkPKaEJN/view?usp=sharing)
 
 ### Technology Stack
 

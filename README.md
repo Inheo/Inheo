@@ -19,14 +19,25 @@
 [![Pipe Puzzle Master](https://img.shields.io/badge/-Pipe_Puzzle_Master-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.NdGames.SmartPipes&hl=en&gl=US)
 [![Tangram Puzzle](https://img.shields.io/badge/-Tangram_Puzzle-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.Ndgames.Tangrampuzzl&hl=en&gl=US)
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=inheo.inheo&left_color=black&right_color=gray&left_text=Views)
-
-
 ### My Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/dan8_8)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://www.instagram.com/daniyal8_8/)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/daniyal88i)
+
+<details>
+<summary>
+  My stats
+</summary>
+
+<br>
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=inheo&count_private=true&theme=tokyonight)
+
+</details>
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=inheo.inheo&left_color=black&right_color=gray&left_text=Views)

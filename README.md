@@ -22,7 +22,7 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=inheo.inheo&left_color=#090909&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=inheo.inheo&left_color=black&right_color=gray&left_text=Views)
 
 
 ### My Contacts

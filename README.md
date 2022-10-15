@@ -18,6 +18,10 @@
 [![Merge fighters](https://img.shields.io/badge/-Merge_fighters-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.AgCh.MergeMaster&hl=en&gl=US)
 [![Pipe Puzzle Master](https://img.shields.io/badge/-Pipe_Puzzle_Master-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.NdGames.SmartPipes&hl=en&gl=US)
 [![Tangram Puzzle](https://img.shields.io/badge/-Tangram_Puzzle-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.Ndgames.Tangrampuzzl&hl=en&gl=US)
+[![Bouncy Balls Puzzle](https://img.shields.io/badge/-Bouncy_Balls_Puzzle-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.NdGames.BouncyBalls)
+[![Idle Crime Scene Cleaner](https://img.shields.io/badge/-Idle_Crime_Scene_Cleaner-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.NDGames.CrimeScene)
+[![Merge Tiles 2048](https://img.shields.io/badge/-Merge_Tiles_2048-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.NdGames.MergeTiles)
+[![Body Salon Master](https://img.shields.io/badge/-Body_Salon_Master-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.NdGames.BodyFill)
 
 ### My Contacts
 

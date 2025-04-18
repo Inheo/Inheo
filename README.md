@@ -25,8 +25,8 @@
 
 ### My Contacts
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/dan8_8)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://www.instagram.com/daniyal8_8/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/anastoi)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://www.instagram.com/anastoii/)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/daniyal88i)
 
 <details>

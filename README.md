@@ -13,6 +13,9 @@
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
 ![Rider](https://img.shields.io/badge/-VS_Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Fast API](https://img.shields.io/badge/-Fast_API-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Rest API](https://img.shields.io/badge/-Rest_API-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ## Work Experience
 ### Unity Developer at [Cookies Games](https://cookiesgames.ru/)
